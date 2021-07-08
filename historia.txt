@@ -10,3 +10,5 @@ Este texto es para hacer brach
 
 Este texto fue escrito a las 8:28 
 Vamos ha hacer un diff ya que y agregamos el archivo.
+
+Este es una linea de texto escrito en 8:47 para hacer un merge 
