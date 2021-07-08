@@ -3,4 +3,10 @@ Esta es la hisotria de luis
 estamos haciendo un proyecto de git 
 para ver los cambios que se han hecho 
 esto va a ser divertido 
-Pero vamos a ver si fuciona 
+Pero vamos a ver si fuciona
+
+Texto en 8 julio 2021 8:27  
+Este texto es para hacer brach
+
+Este texto fue escrito a las 8:28 
+Vamos ha hacer un diff ya que y agregamos el archivo.
