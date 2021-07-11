@@ -13,4 +13,6 @@ Vamos ha hacer un diff ya que y agregamos el archivo.
 
 
 Esto lo vamos a cambiar desde el master 
-Este es una linea de texto escrito en 8:47 para hacer un merge 
+Este es una linea de texto escrito en 8:47 para hacer un merge
+
+Este es un cambio
